@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Sequencer
 
 A Salesforce solution designed to automatically create and manage sequential tasks based on selected processes on an Opportunity. This project allows administrators to configure task sequences for different processes, ensuring flexibility and efficiency in task management.
@@ -112,3 +113,6 @@ We welcome contributions! Follow these steps to contribute:
 ## License
 
 This project is licensed under the MIT License.
+=======
+# TaskHomeChallenge
+>>>>>>> cf552fa4c3f00f4074abd477c89407b30133a209
